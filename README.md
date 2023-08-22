@@ -1,11 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
 ## About Laravel
 
@@ -20,7 +14,11 @@ In this application simple registration form is created for demonstrating the cr
 
 #Output
 
+1.Create Page
 ![create page](https://github.com/pranav2151/CRUD-Operation-Using-PHP/assets/86565193/bc1c2143-9f82-474d-ad07-57e07e69078a)
 
+2.List Page
 ![Screenshot 2023-08-22 0853081](https://github.com/pranav2151/CRUD-Operation-Using-PHP/assets/86565193/17a2e946-ccec-49b8-93b8-374e240b53dc)
+
+3.Edit Page
 ![edit page](https://github.com/pranav2151/CRUD-Operation-Using-PHP/assets/86565193/7fba3457-d2a0-4051-96ef-32c460e21301)
